@@ -10,6 +10,7 @@ namespace GitTests1
     {
         static void Main(string[] args)
         {
+            //Code was added in github
         }
     }
 }
