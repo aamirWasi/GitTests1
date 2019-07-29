@@ -17,6 +17,7 @@ namespace GitTests1
             //Changed in line17
 
             //Line 17 code was updated
+            Console.WriteLine("Hello git");
         }
     }
 }
